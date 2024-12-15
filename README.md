@@ -1,11 +1,12 @@
-# _Electric Vehicles Data Analysis Dashboard_
-In this project, we will build an interactive dashboard to analyze the distribution of electric vehicles in the United States. The dashboard will be visualized using Tableau Public software, where we will use its tools which are very popular and currently in great demand by the market. Tableau was chosen because it is able to process many data sources and is integrated with scripting languages. The use of Tableau in making Dashboards has several advantages in business including making it easier to view and compare information, get relevant business data and simplify decision making. Data Source in this project is obtained from Kaggle
+# Electric Vehicles Data Analysis Dashboard
+In this project, we will build an interactive dashboard to analyze the population of electric vehicles in the United States. The dashboard will be visualized using Tableau Public software, where we will use its tools which are very popular and currently in great demand by the market. Tableau was chosen because it is able to process many data sources and is integrated with scripting languages. The use of Tableau in making Dashboards has several advantages in business including making it easier to view and compare information, get relevant business data and simplify decision making. Data Source in this project is obtained from Kaggle
 
 ### To see the final result of dashboard visualization using Tableau Public, visit:
 
 [![N|Solid](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)](https://biancaninna.github.io/Electric-Vehicles-Data-Analysis-Tableau-Dashboard/)
 
 ## Business Requirement
+Cclient wants to create an electric car population dashboard, so that they can have insight on the below requirements
 ### KPI's Requirements
 1. Total Vehicles
 
