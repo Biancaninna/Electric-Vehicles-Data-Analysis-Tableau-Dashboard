@@ -6,7 +6,7 @@ In this project, we will build an interactive dashboard to analyze the populatio
 [![N|Solid](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)](https://biancaninna.github.io/Electric-Vehicles-Data-Analysis-Tableau-Dashboard/)
 
 ## Business Requirement
-Cclient wants to create an electric car population dashboard, so that they can have insight on the below requirements
+Client wants to create an electric car population dashboard, so that they can have insight on the below requirements
 ### KPI's Requirements
 1. Total Vehicles
 
